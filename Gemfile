@@ -9,6 +9,8 @@ gem 'devise'
 
 gem 'sqlite3'
 gem 'pg'
+gem 'activerecord-bq-adapter'
+gem 'activerecord-tableless'
 gem 'mysql'
 
 
