@@ -9,10 +9,6 @@ gem 'devise'
 
 gem 'sqlite3'
 gem 'pg'
-gem 'activerecord-bq-adapter'
-gem 'activerecord-tableless'
-gem 'mysql'
-
 
 # Gems used only for assets and not required
 # in production environments by default.
