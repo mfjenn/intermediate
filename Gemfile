@@ -9,7 +9,7 @@ gem 'devise'
 
 gem 'sqlite3'
 gem 'pg'
-gem 'activerecord-mysql-adapter'
+gem 'mysql'
 
 
 # Gems used only for assets and not required
